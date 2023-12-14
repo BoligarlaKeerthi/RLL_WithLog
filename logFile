@@ -1,0 +1,7 @@
+2023-12-14 19:12:34 INFO  TestLogin:44 - User opened Application in browser
+2023-12-14 19:12:442 INFO  TestLogin:50 - user clicked Login button
+2023-12-14 19:12:225 INFO  TestLogin:56 - user entered email
+2023-12-14 19:12:867 INFO  TestLogin:63 - user clicked on continue button
+2023-12-14 19:12:570 INFO  TestLogin:70 - user enterd OTP and clicked on verify
+2023-12-14 19:12:224 INFO  TestLogin:76 - user clicked on My profile
+2023-12-14 19:12:502 INFO  TestLogin:83 - user verified the email

@@ -1,0 +1,13 @@
+<suite name="FirstCry Test" verbose="1">
+
+	<listeners>
+		<listener class-name="listeners.ItestListenerClass"></listener>
+	</listeners>
+
+	<test name="Test Runner using XML">
+		<classes>
+			<class name="runner.Runner"></class>
+             <class name ="runner.RunnerFailed"></class>
+		</classes>
+	</test>
+</suite>
